@@ -205,7 +205,7 @@ px      68    160    252    344    436    528    620    712    */
     padding-left: 210px;
   }
   #illustration {
-    top: 400px;
+    top: 560px;
     width:210px;
   }
 }
@@ -325,7 +325,7 @@ px      68    160    252    344    436    */
   #illustration {
     visibility: visible;
     display: block;
-    top: 350px;
+    top: 560px;
     width:180px;
     z-index:-1;
   }
